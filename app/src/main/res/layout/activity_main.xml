@@ -9,6 +9,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@mipmap/ball01" />
+        android:src="@mipmap/ball01"
+        android:background="#000"/>
 
 </RelativeLayout>
