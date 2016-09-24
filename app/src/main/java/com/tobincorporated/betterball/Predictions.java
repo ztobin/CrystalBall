@@ -8,9 +8,10 @@ public class Predictions {
 
     private Predictions(){
         answers = new String[]{
-                "SlammaJamma1",
-                "SlammaJamma2",
-                "MonkeyBones"
+                "I've told you this already",
+                "Watch the video",
+                "Read the Instructions",
+                "Did you watch the video?"
         };
     }
 

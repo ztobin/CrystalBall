@@ -5,14 +5,18 @@
     android:layout_height="match_parent"
     tools:context="com.tobincorporated.betterball.MainActivity">
     <ImageView
+        android:id="@+id/ballImage"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/ball01"
         android:background="#000"
+
         />
     <TextView
         android:id="@+id/answerText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
         android:textColor="#FFFFFF"/>
 </RelativeLayout>
