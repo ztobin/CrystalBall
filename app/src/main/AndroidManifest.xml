@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.tobincorporated.crystalball">
 
     <application
@@ -9,6 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
+=======
+    package="com.tobincorporated.betterball">
+
+    <application
+        android:allowBackup="true"
+
+        android:icon="@drawable/ballcon"
+
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".MainActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+>>>>>>> cceb1806134746b0c6f68c890d08a5aaabc10d21
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

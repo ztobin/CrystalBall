@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/CrystalBall.iml" filepath="$PROJECT_DIR$/CrystalBall.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/BetterBall.iml" filepath="$PROJECT_DIR$/BetterBall.iml" />
+>>>>>>> cceb1806134746b0c6f68c890d08a5aaabc10d21
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

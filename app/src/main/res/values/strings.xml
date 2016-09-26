@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">CrystalBall</string>
+=======
+    <string name="app_name">BetterBall</string>
+>>>>>>> cceb1806134746b0c6f68c890d08a5aaabc10d21
 </resources>

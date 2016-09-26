@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
 
     tools:context="com.tobincorporated.crystalball.MainActivity">
 
@@ -12,4 +13,22 @@
         android:src="@mipmap/ball01"
         android:background="#000"/>
 
+=======
+    tools:context="com.tobincorporated.betterball.MainActivity">
+    <ImageView
+        android:id="@+id/ballImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000"
+
+        />
+    <TextView
+        android:id="@+id/answerText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="#FFFFFF"/>
+>>>>>>> cceb1806134746b0c6f68c890d08a5aaabc10d21
 </RelativeLayout>
